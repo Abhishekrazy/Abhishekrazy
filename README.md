@@ -21,7 +21,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekrazy&hide_progress=false" />
 </picture>
 <br/>
-<a href="https://github.com/Abhishekrazy/convoychat">
+<a href="https://github.com/Abhishekrazy/notes-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekrazy&repo=notes-app" />
 </a>
 

@@ -22,7 +22,7 @@
 </picture>
 <br/>
 <a href="https://github.com/Abhishekrazy/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekrazy&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekrazy&repo=notes-app" />
 </a>
 
 <!---

@@ -18,7 +18,7 @@
 </picture>
 <br/>
 <picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekrazy&hide_progress=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekrazy&hide_progress=false" />
 </picture>
 
 

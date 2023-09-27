@@ -7,8 +7,8 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Abhishekrazy)](https://github.com/Abhishekrazy/Abhishekrazy) [![GitHub followers](https://img.shields.io/github/followers/Abhishekrazy.svg?style=social&label=Follow)](https://github.com/Abhishekrazy?tab=followers)
 
 I'm Abhishek Razy! 
-- <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
-- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
+- <i>Previously:</i> BSc Student at Chandigarh University. 
+- <i>Currently:</i> Senior Salesforce Developer at Manras Technologies.
 
 <h2>💻 I'm Currently workng on</h2>
 
@@ -49,10 +49,10 @@ __Check out my GitHub repository:__
 
 I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
  
-- Check out my Blog: [https://laxmena.com](https://laxmena.com)
-- Know more about me: [About Laxmena](https://laxmena.com/pages/about)
-- Write to me: [ConnectWith@laxmena.com](mailto:ConnectWith@laxmena.com)
+- Check out my Blog: [https://abhishekrazyblogs.wordpress.com](https://abhishekrazyblogs.wordpress.com/)
+//- Know more about me: [About Abhishek Razy](https://laxmena.com/pages/about)
+- Write to me: [abhishekrzy@gmail.com](mailto:abhishekrzy@gmail.com)
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:ConnectWith@laxmena.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:abhishekrzy@gmail.com">![abhishekrzy@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/abhishekrazy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>

@@ -1,4 +1,4 @@
-![Abhishek Razy](./banner.jpg)
+![Abhishek Razy](./Banner.jpg)
 <!-- <h2 align='center'>Abhishek Razy @ Abhishekrazy</h2>
 <p align='center'><b>Graduate Student at Chandigarh University</b></p> -->
 

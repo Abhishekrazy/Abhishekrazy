@@ -4,7 +4,7 @@
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Abhishekrazy)](https://github.com/Abhishekrazy/Abhishekrazy) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Abhishekrazy)](https://github.com/Abhishekrazy/Abhishekrazy) [![GitHub followers](https://img.shields.io/github/followers/Abhishekrazy.svg?style=social&label=Follow)](https://github.com/Abhishekrazy?tab=followers)
 
 I'm Lakshmanan Meiyappan! 
 - <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 

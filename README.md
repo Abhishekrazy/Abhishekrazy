@@ -1,6 +1,6 @@
-![Lakshmanan Meiyappan Banner Image](./banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
+![Abhishek Razy](./banner.png)
+<!-- <h2 align='center'>Abhishek Razy @ Abhishekrazy</h2>
+<p align='center'><b>Graduate Student at Chandigarh University</b></p> -->
 
 <h2>Hey! 👋</h2>
 
@@ -49,7 +49,7 @@ __Check out my GitHub repository:__
 
 I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
  
-- Check out my Blog: [https://abhishekrazyblogs.wordpress.com](https://abhishekrazyblogs.wordpress.com/)
+- Check out my Blog: [abhishekrazyblogs.wordpress.com](https://abhishekrazyblogs.wordpress.com/)
 - Know more about me: [About Abhishek Razy](https://www.linkedin.com/in/abhishekrazy)
 - Write to me: [abhishekrzy@gmail.com](mailto:abhishekrzy@gmail.com)
 

@@ -6,7 +6,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Abhishekrazy)](https://github.com/Abhishekrazy/Abhishekrazy) [![GitHub followers](https://img.shields.io/github/followers/Abhishekrazy.svg?style=social&label=Follow)](https://github.com/Abhishekrazy?tab=followers)
 
-I'm Lakshmanan Meiyappan! 
+I'm Abhishek Razy! 
 - <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
 - <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
 

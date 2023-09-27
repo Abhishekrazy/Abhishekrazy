@@ -50,7 +50,7 @@ __Check out my GitHub repository:__
 I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
  
 - Check out my Blog: [https://abhishekrazyblogs.wordpress.com](https://abhishekrazyblogs.wordpress.com/)
-//- Know more about me: [About Abhishek Razy](https://laxmena.com/pages/about)
+- Know more about me: [About Abhishek Razy](https://www.linkedin.com/in/abhishekrazy)
 - Write to me: [abhishekrzy@gmail.com](mailto:abhishekrzy@gmail.com)
 
 <h2>📫 How to reach me:</h2>

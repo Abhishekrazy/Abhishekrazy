@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Graduate Student living in Chandigarh, India. <br>Outside tech, I love to read, enjoy music, and explore nature outdoors. <br>If you're around Chandigarh, drop me an email and let's catch up over coffee!<br><br>- Check out my Blog: [abhishekrazyblogs.wordpress.com](https://abhishekrazyblogs.wordpress.com/)<br>- Know more about me: [About Abhishek Razy](https://www.linkedin.com/in/abhishekrazy)
+I'm a Graduate Student living in Chandigarh, India. <br>Outside tech, I love to read, enjoy music, and explore nature outdoors. <br>If you're around Chandigarh, drop me an email and let's catch up over coffee!<br><br>- Check out my Blog: [abhishekrazyblogs.wordpress.com](https://abhishekrazyblogs.wordpress.com/)<br>- Know more about me: [About Abhishek Razy](https://www.linkedin.com/in/abhishekrazy)<br>- (https://abhishekrazy.com)
 
 
 ## 🌐 Socials:

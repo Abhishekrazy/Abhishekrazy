@@ -31,5 +31,4 @@ I'm a Graduate Student living in Chandigarh, India. <br>Outside tech, I love to 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/abhishekrazy/abhishekrazy/output/snake.svg" alt="Snake animation" />
-
 ###

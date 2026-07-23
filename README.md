@@ -54,16 +54,23 @@
 ### 📊 GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekrazy&theme=dark&show_icons=true" alt="Abhishek's GitHub Stats" />
+  <a href="https://github.com/Abhishekrazy">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishekrazy&theme=dark&show_icons=true&include_all_commits=true" alt="Abhishek's GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekrazy&theme=dark&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/Abhishekrazy">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishekrazy&theme=dark&layout=compact" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekrazy&theme=dark" alt="GitHub Streak" />
+  <a href="https://github.com/Abhishekrazy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekrazy&theme=dark" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 ---
 

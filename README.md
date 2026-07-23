@@ -74,11 +74,13 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies & Stats Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishekrazy&theme=dark" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishekrazy&theme=solarized_dark" alt="GitHub Profile Summary" />
 </p>
+
+
 
 
 ---
